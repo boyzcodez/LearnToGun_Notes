@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## WeaponsIdeas
@@ -13,6 +15,7 @@ kanban-plugin: board
 - [ ] Railgun
 - [ ] Rocket Launcer
 - [ ] Minigun
+- [ ] New guns
 
 
 ## ToDo
