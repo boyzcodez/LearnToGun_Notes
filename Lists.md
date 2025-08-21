@@ -30,7 +30,6 @@ kanban-plugin: board
 - [ ] A Test map
 - [ ] A Boss
 - [ ] End Screen / Point screen
-- [ ] Transition screen for map switching
 - [ ] Weapon store
 
 
@@ -53,6 +52,8 @@ kanban-plugin: board
 
 ## InProgress
 
+- [ ] Transition screen for map switching
+	Portal
 
 
 ## Finished
