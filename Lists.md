@@ -78,9 +78,12 @@ kanban-plugin: board
 ## ToDo
 
 - [ ] Gameplay loop / enter portal, fight enemies, die, get stronger, go again
+	
+	Hades, RatchetClank, Gungeon
 - [ ] Weapon Wheel / slow-mo
+	Weapon info
 - [ ] Starting area
-- [ ] Guns / Working Leveling
+- [ ] Working Leveling
 - [ ] More enemies:
 	- Shotgun enemy
 	- Rifle enemy
