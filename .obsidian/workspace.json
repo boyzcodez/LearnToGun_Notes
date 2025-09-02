@@ -21,6 +21,7 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -191,8 +192,10 @@
   },
   "active": "471e64963d560d3e",
   "lastOpenFiles": [
-    "LearnToGun the Game.md",
+    "Pistol.md",
     "Lists.md",
+    "Pistol 1.md",
+    "LearnToGun the Game.md",
     "Weapon Wheel.md"
   ]
 }
